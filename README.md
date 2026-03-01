@@ -95,7 +95,7 @@ Verify that RAID 1 VOL is listed as OK in Storage Spaces:  <br/>
 <br />
 
 <br />
-Verify that RAID 1 VOL is listed as OK in Storage Spaces:  <br/>
+In the Taskbar, click the File Explorer icon:  <br/>
 <img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 
