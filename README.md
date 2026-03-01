@@ -30,7 +30,7 @@ To improve availability, RAID (RAID 1/10) was configured to copy data across mul
 
 <p align="center">
 Create and format hard disk partitions: <br/>
-<img src="Create and format hard disk partitions.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="Create and format hard disk partitions.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 <br />
  
 <br />
