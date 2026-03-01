@@ -66,9 +66,22 @@ Observe that both VHDs appear Unallocated in Disk Management. Leave them as they
 - <b> Task 2 – Configure RAID 1</b>
 
 <br />
-????????????????????????:  <br/>
+Open Manage Storage Spaces via Start → Storage Spaces:  <br/>
 <img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
+
+<br />
+Click Create a new pool and storage space:  <br/>
+<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+
+<br />
+Select VHD1 and VHD2 as the disks for the pool → Click Create pool:  <br/>
+<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+
+
+
 
 
 <!--
