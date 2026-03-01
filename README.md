@@ -32,11 +32,13 @@ To improve availability, RAID (RAID 1/10) was configured to copy data across mul
 Create and format hard disk partitions: <br/>
 <img src="Create and format hard disk partitions.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 <br />
+
  
 <br />
 Click Action → Create VHD:  <br/>
 <img src="Create VHD.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 <br />
+
 
 <br />
 Browse to C:\ and create a new folder named VHDs: <br/>
