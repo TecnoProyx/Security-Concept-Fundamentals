@@ -61,9 +61,10 @@ Repeat to create the second VHD, Name: VHD2, Size: 5 GB:  <br/>
 <br />
 Observe that both VHDs appear Unallocated in Disk Management. Leave them as they are:  <br/>
 <img src="Observe that both VHDs appear Unallocated in Disk Management. Leave them as they are.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
-</p>
+
 
 - <b> Task 2 – Configure RAID 1</b>
+
 <p align="center">
 Open Manage Storage Spaces via Start → Storage Spaces:  <br/>
 <img src="Open Manage Storage.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
@@ -97,6 +98,7 @@ Verify that RAID 1 VOL is listed as OK in Storage Spaces:  <br/>
 (Optional) Copy files from another drive to RAID 1 VOL to test mirroring:  <br/>
 <img src="Copy files from another drive to RAID 1 VOL to test mirroring.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 <br />
+</p>
 
 
 
