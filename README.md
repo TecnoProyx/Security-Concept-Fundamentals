@@ -90,13 +90,8 @@ Setup, Name: RAID 1 VOL:  <br/>
 <br />
 
 <br />
-Setup, Name: RAID 1 VOL, Size: 8.74 GB, Select Create storage space:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-
-<br />
 Verify that RAID 1 VOL is listed as OK in Storage Spaces:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src=" Verify that RAID 1 VOL is listed as OK in Storage Spaces.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 
 <br />
