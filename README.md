@@ -49,7 +49,7 @@ Open the VHDs folder and create the first VHD, Name as VHD1:  <br/>
 <br />
 
 <br />
-Size folder: 5 GB, Format: VHDX, and Click OK:  <br/>
+Size folder: 5 GB, Format: VHD or VHDX, and Click OK:  <br/>
 <img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 
