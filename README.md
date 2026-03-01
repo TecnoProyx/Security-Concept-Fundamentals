@@ -55,7 +55,7 @@ Size folder: 5 GB, Format: VHD or VHDX, and Click OK:  <br/>
 
 <br />
 Repeat to create the second VHD, Name: VHD2, Size: 5 GB:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="select GB from the dropdown menu and type the following (2).png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 <br />
 
 <br />
