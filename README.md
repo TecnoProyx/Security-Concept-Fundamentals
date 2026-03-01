@@ -76,8 +76,8 @@ Click Create a new pool and storage space:  <br/>
 <br />
 
 <br />
-Select VHD1 and VHD2 as the disks for the pool → Click Create pool:  <br/>
-<img src="Select drives to create a storage pool.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Select Disk 2 and Disk 3 as the disks for the pool → Click Create pool:  <br/>
+<img src="Select drives to create a storage pool.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 <br />
 
 <br />
