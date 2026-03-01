@@ -18,7 +18,8 @@ To improve availability, RAID (RAID 1/10) was configured to copy data across mul
 
 <h2>Languages and Utilities Used</h2>
 
-- <b> Windows 11 (21H2): Operating System(VM)</b>
+- <b> Windows Server 2022: Domain Controller (VM)</b>?
+- <b> Windows 11 pro (21H2):Domain Member (VM)</b>
 - <b> Disk Management: For creating and initializing virtual hard disks (VHDs)</b>
 - <b> Storage Spaces: For configuring software RAID 1 (disk mirroring)</b>
 - <b> File Explorer: For verifying data and testing mirroring</b>
