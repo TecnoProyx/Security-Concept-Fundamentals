@@ -98,7 +98,6 @@ Verify that RAID 1 VOL is listed as OK in Storage Spaces:  <br/>
 (Optional) Copy files from another drive to RAID 1 VOL to test mirroring:  <br/>
 <img src="Copy files from another drive to RAID 1 VOL to test mirroring.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 <br />
-</p>
 
 
 
