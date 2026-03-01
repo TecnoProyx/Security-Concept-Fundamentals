@@ -67,7 +67,7 @@ Observe that both VHDs appear Unallocated in Disk Management. Leave them as they
 
 <br />
 Open Manage Storage Spaces via Start → Storage Spaces:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="Open Manage Storage.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 <br />
 
 <br />
