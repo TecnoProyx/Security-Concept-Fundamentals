@@ -95,7 +95,7 @@ Verify that RAID 1 VOL is listed as OK in Storage Spaces:  <br/>
 <br />
 
 <br />
-In the Taskbar, click the File Explorer icon:  <br/>
+(Optional) Copy files from another drive to RAID 1 VOL to test mirroring:  <br/>
 <img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 
