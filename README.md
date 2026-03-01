@@ -60,7 +60,7 @@ Repeat to create the second VHD, Name: VHD2, Size: 5 GB:  <br/>
 
 <br />
 Observe that both VHDs appear Unallocated in Disk Management. Leave them as they are:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="observe that Disks 2 and 3 are no longer listed, but a new Disk 4 .png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 </p>
 
 - <b> Task 2 – Configure RAID 1</b>
