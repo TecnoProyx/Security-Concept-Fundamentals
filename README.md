@@ -45,7 +45,7 @@ Browse to C:\ and create a new folder named VHDs: <br/>
 
 <br />
 Open the VHDs folder and create the first VHD, Name as VHD1:  <br/>
-<img src="rename the newly created folder as follows, VHDs.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<img src="double-click on the VHDs folder and file name saction VHD1 and press save.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 <br />
 
 <br />
