@@ -80,6 +80,15 @@ Select VHD1 and VHD2 as the disks for the pool → Click Create pool:  <br/>
 <img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 
+<br />
+Setup, Name: RAID 1 VOL, Size: 8.74 GB, Select Create storage space:  <br/>
+<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+
+<br />
+Setup, Name: RAID 1 VOL, Size: 8.74 GB, Select Create storage space:  <br/>
+<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
 
 
 
