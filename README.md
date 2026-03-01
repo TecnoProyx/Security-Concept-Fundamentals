@@ -72,7 +72,7 @@ Open Manage Storage Spaces via Start → Storage Spaces:  <br/>
 
 <br />
 Click Create a new pool and storage space:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="click Create a new pool.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 <br />
 
 <br />
