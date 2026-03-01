@@ -33,6 +33,8 @@ Create and format hard disk partitions: <br/>
 <img src="Create and format hard disk partitions.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 <br />
 
+
+
  
 <br />
 Click Action → Create VHD:  <br/>
