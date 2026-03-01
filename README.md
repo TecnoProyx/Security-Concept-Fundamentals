@@ -64,8 +64,7 @@ Observe that both VHDs appear Unallocated in Disk Management. Leave them as they
 </p>
 
 - <b> Task 2 – Configure RAID 1</b>
-
-<br />
+<p align="center">
 Open Manage Storage Spaces via Start → Storage Spaces:  <br/>
 <img src="Open Manage Storage.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 <br />
