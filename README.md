@@ -40,12 +40,12 @@ Click Action → Create VHD:  <br/>
 
 <br />
 Browse to C:\ and create a new folder named VHDs: <br/>
-<img src="rename the newly created folder as follows, VHDs.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src=" rename the newly created folder as follows, VHDs.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 
 <br />
 Open the VHDs folder and create the first VHD, Name as VHD1:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="rename the newly created folder as follows, VHDs.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 
 <br />
