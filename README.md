@@ -35,17 +35,17 @@ Create and format hard disk partitions: <br/>
  
 <br />
 Click Action → Create VHD:  <br/>
-<img src="Create VHD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="Create VHD.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 <br />
 
 <br />
 Browse to C:\ and create a new folder named VHDs: <br/>
-<img src="rename the newly created folder as follows, VHDs.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="rename the newly created folder as follows, VHDs.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 <br />
 
 <br />
 Open the VHDs folder and create the first VHD, Name as VHD1:  <br/>
-<img src="rename the newly created folder as follows, VHDs.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="rename the newly created folder as follows, VHDs.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 <br />
 
 <br />
