@@ -81,12 +81,11 @@ Select Disk 2 and Disk 3 for the pool → Click Create pool:  <br/>
 <br />
 
 <br />
-Setup, Name: RAID 1 VOL, Size: 8.74 GB, Select Create storage space:  <br/>
+Setup, Name: RAID 1 VOL:  <br/>
 <img src="SET Name, RAID 1 VOL.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 <br />
 
-<br />
-Setup, Name: RAID 1 VOL, Size: 8.74 GB, Select Create storage space:  <br/>
+<br /> Size: 8.74 GB, Select Create storage space:  <br/>
 <img src="size maximun field 8.74gb.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 <br />
 
